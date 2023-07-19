@@ -9,4 +9,6 @@ HTML
 CSS
 JavaScript
 
+The project is hosted on Netlify.[Hosted Link](https://wanjikode-hoab-homes.netlify.app)
+
 
